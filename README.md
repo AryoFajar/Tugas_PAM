@@ -1,5 +1,5 @@
-#Kumpulan Tugas PAM
+# Kumpulan Tugas PAM
 
-Nama  : Aryo Fajar Pratomo
-NIM   : 124140012
-Pengenalan Aplikasi Mobile
+Nama  : Aryo Fajar Pratomo <bf>
+NIM   : 124140012 <bf>
+Pengenalan Aplikasi Mobile <bf>
