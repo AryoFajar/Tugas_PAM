@@ -1,10 +1,8 @@
 # Tugas Pengembangan Aplikasi Mobile
 
-*Nama:* Aryo Fajar Pratomo
-
-*NIM:* 124140012 
-
-*Kelas:* Pengenalan Aplikasi Mobile RB  
+*Nama:* Aryo Fajar Pratomo <br>
+*NIM:* 124140012 <br>
+*Kelas:* Pengenalan Aplikasi Mobile RB
 
 ## Daftar Tugas
 
