@@ -1,5 +1,11 @@
-# Kumpulan Tugas PAM
+# Tugas Pengembangan Aplikasi Mobile
 
-Nama  : Aryo Fajar Pratomo <bf>
-NIM   : 124140012 <bf>
-Pengenalan Aplikasi Mobile <bf>
+*Nama:* Aryo Fajar Pratomo
+*NIM:* 124140012 
+*Kelas:* Pengenalan Aplikasi Mobile RB  
+
+## Daftar Tugas
+
+- *Minggu 1:* Pengenalan Flutter
+- *Minggu 2:* Membuat aplikasi sederhana
+- *Minggu 3:* Membuat My Profile App
