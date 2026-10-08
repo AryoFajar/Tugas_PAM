@@ -9,3 +9,4 @@
 - *Minggu 1:* Pengenalan Flutter
 - *Minggu 2:* Membuat aplikasi sederhana
 - *Minggu 3:* Membuat My Profile App
+- *Minggu 4:* Implementasi State Management dan MVVM
