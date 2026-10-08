@@ -27,6 +27,10 @@ Aplikasi ini adalah pengembangan Profile App dari tugas minggu lalu. State aplik
  
 <img width="1920" height="1051" alt="Tugas4 10_8_2026 10_58_00 AM" src="https://github.com/user-attachments/assets/6d575e5e-f29a-47ef-9c2d-66955d03c88a" />
 
+### Edit Mode
+
+<img width="1915" height="975" alt="Cuplikan layar 2026-10-08 120104" src="https://github.com/user-attachments/assets/bf69dedc-99ce-4322-a845-69fafa28a84e" />
+
 ### Mode Terang
  
 <img width="1920" height="1051" alt="Tugas4 10_8_2026 10_58_06 AM" src="https://github.com/user-attachments/assets/94e4e5a6-299f-438b-9b28-fbe08c7ad79a" />
