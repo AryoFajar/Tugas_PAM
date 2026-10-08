@@ -56,7 +56,6 @@ shared/src/commonMain/kotlin/com/example/tugas4/
     ├── ProfileTheme.kt
     └── components/
         ├── LabeledTextField.kt
-        └── ProfileComponents.kt
 ```
  
 ### Tanggung Jawab Tiap File
