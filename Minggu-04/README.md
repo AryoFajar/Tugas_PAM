@@ -26,6 +26,7 @@ Aplikasi ini adalah pengembangan Profile App dari tugas minggu lalu. State aplik
 ### Mode Gelap
  
 <img width="1920" height="1051" alt="Tugas4 10_8_2026 10_58_00 AM" src="https://github.com/user-attachments/assets/6d575e5e-f29a-47ef-9c2d-66955d03c88a" />
+
 ### Mode Terang
  
 <img width="1920" height="1051" alt="Tugas4 10_8_2026 10_58_06 AM" src="https://github.com/user-attachments/assets/94e4e5a6-299f-438b-9b28-fbe08c7ad79a" />
